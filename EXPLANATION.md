@@ -1,3 +1,5 @@
+# Explanation
+
 My branching strategy:
 
 The strategy that I used was to create a single branch labeled developer-branch. 
