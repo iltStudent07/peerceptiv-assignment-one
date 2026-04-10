@@ -11,7 +11,7 @@ working on the project and it's simple with only a few basic html files, I found
 My commit philosophy:
 
 My goal was to make a commit at development milestones that were reached instead of commiting after
-every small change. This way I had good solid commits that reflected major changes to files instead of floooding the commit history
+every small change. This way I had good solid commits that reflected major changes to files instead of flooding the commit history
 with tons of very small changes. For example, instead of changing a single sentence and commiting, I waited until I was done editing all
 the text in whatever file I was working on and then committed all the changes.
 <br>
